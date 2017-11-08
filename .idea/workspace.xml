@@ -2,45 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf1390c7-b6a0-4ac2-888c-22a0949c0470" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/heart-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/icon-heart-sprite.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/icon-photo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/image-icons-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img/main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/MyProject_v01.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/custom-normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/materialdesignicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/materialdesignicons-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,18 +30,18 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="671">
+              <caret line="145" column="1" lean-forward="true" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="photo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/photo.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="38" />
+            <state relative-caret-position="651">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -102,8 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/photo.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -138,13 +101,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="MyProject_v01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyProject_v01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyProject_v01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyProject_v01" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="firstSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="firstSite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,12 +150,12 @@
       <updated>1509827153407</updated>
       <workItem from="1509827154599" duration="6442000" />
       <workItem from="1510085922142" duration="14819000" />
-      <workItem from="1510177307179" duration="582000" />
+      <workItem from="1510177307179" duration="6703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21843000" />
+    <option name="totallyTimeSpent" value="27964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
@@ -260,6 +218,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -291,17 +250,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/materialdesignicons.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -314,18 +274,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/photo.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="38" />
+        <state relative-caret-position="651">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="671">
+          <caret line="145" column="1" lean-forward="true" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
           <folding />
         </state>
       </provider>

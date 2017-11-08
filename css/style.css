@@ -6,7 +6,10 @@
     background: linear-gradient(to top, #313539, #464C53);
 }
 
-.container .header__container {
+.header__container::after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 .header__names_text {
@@ -16,7 +19,7 @@
 .header__names_left{
     float: left;
     width: 100px;
-    padding-top: 10px;
+    line-height: 40px;
 }
 
 .header__icon {
@@ -40,14 +43,16 @@
     border-radius: 15px;
 }
 
-/*Section Photo*/
+/*Section Photo
+  file photo*/
 .photo_central {
     display: flex;
     align-content: center;
     justify-content: center;
 }
 
-/*Section Legend  */
+/*Section Legend
+  file photo*/
 .contain_box {
     margin: auto;
     width: 600px;
@@ -97,3 +102,75 @@
 .text_like {
     float: right;
 }
+
+/*Static Gallery
+  file index*/
+.section__static_gallery {
+    /*width: 1000px;*/
+    height: 586px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    background: url(../img/img/main.png) no-repeat 50% 0px;
+}
+
+/*.section__static_gallery::after{*/
+    /*content: "";*/
+    /*diaplay: table;*/
+    /*clear: both;*/
+/*}*/
+.static_gallery_left {
+    width: 195px;
+    height: 586px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.static_gallery_right {
+    width: 195px;
+    height: 586px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    height: 195px;
+    width: 195px;
+    border-radius: 5px;
+    /*height: 100%;*/
+    /*width: auto;*/
+}
+
+/*.img_left_one {*/
+    /*!*float: left;*!*/
+    /*!*justify-content: flex-start;*!*/
+    /*!*align-content: center;*!*/
+    /*height: 195px;*/
+/*}*/
+
+/*.img_left_two {*/
+    /*!*float: left;*!*/
+    /*!*clear: left;*!*/
+    /*!*justify-content: flex-start;*!*/
+    /*!*align-content: center;*!*/
+    /*height: 195px;*/
+/*}*/
+
+/*.img_right_one {*/
+    /*!*float: right;*!*/
+    /*!*justify-content: flex-end;*!*/
+    /*!*align-content: center;*!*/
+    /*height: 195px;*/
+/*}*/
+
+/*.img_right_two {*/
+    /*!*float: right;*!*/
+    /*!*clear: right;*!*/
+    /*!*justify-content: flex-end;*!*/
+    /*!*align-content: center;*!*/
+    /*height: 195px;*/
+/*}*/

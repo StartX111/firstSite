@@ -1,0 +1,146 @@
+
+/*Header*/
+.header {
+    height: 40px;
+    padding: 5px 0;
+    background: linear-gradient(to top, #313539, #464C53);
+}
+
+.header__container::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.header__names_text {
+    color: #C8C8C8;
+}
+
+.header__names_left{
+    float: left;
+    width: 100px;
+    line-height: 40px;
+}
+
+.header__icon {
+    float: right;
+    width: 100px;
+}
+
+.header__icon_username {
+    color: #494C4F;
+    margin-top: 7px;
+    text-align: center;
+}
+
+.background {
+    margin-top: 5px;
+    width: 30px;
+    height: 30px;
+    background: #999999;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border-radius: 15px;
+}
+
+/*Section Photo
+  file photo*/
+.photo_central {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+/*Section Legend
+  file photo*/
+.contain_box {
+    margin: auto;
+    width: 600px;
+    height: 40px;
+    background-COLOR: #FFFFFF
+}
+
+.legend_comment {
+    float: left;
+    padding: 15px 0;
+    width: 105px;
+    font-size: 10px;
+}
+
+.comment_count {
+    float: left;
+    padding-left: 20px;
+    padding-right: 4px;
+}
+
+.text_comment {
+    float: left;
+}
+
+.legend_like {
+    float: right;
+    display: inline-block;
+    font-size: 10px;
+    margin-right: 20px;
+    width: 200px;
+    height: 15px;
+    padding: 15px 0;
+}
+
+.like_heart {
+    float: right;
+    margin-left: 4px;
+    margin-right: 4px;
+    color: red;
+}
+
+.like_count {
+    float: right;
+    /*margin-left: 4px;*/
+}
+
+.text_like {
+    float: right;
+}
+
+/*Static Gallery
+  file index*/
+.section__static_gallery {
+    /*width: 1000px;*/
+    height: 586px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    background: url(../img/img/main.png) no-repeat 50% 0px;
+}
+
+/*.section__static_gallery::after{*/
+    /*content: "";*/
+    /*diaplay: table;*/
+    /*clear: both;*/
+/*}*/
+.static_gallery_left {
+    width: 195px;
+    height: 586px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.static_gallery_right {
+    width: 195px;
+    height: 586px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img_static_gallery {
+    height: 195px;
+    width: 195px;
+    border-radius: 5px;
+    /*height: 100%;*/
+    /*width: auto;*/
+}
